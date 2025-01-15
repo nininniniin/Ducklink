@@ -1,15 +1,15 @@
-# DuckTrack
+# DuckLink
 
-This is the repository for the DuckAI DuckTrack app which records all keyboard and mouse input as well as the screen for use in a multimodal computer interaction dataset.
+This is the repository for the DuckAI DuckLink app which records all keyboard and mouse input as well as the screen for use in a multimodal computer interaction dataset.
 
-[Blog Post](https://duckai.org/blog/ducktrack)
+
 
 ## Installation & Setup
 
 ### Download Application
 
 <!-- TODO: add prebuilt applications in github releases -->
-Download the pre-built application for your system [here](https://github.com/TheDuckAI/DuckTrack/releases/).
+Download the pre-built application for your system [here](https://github.com/TheDuckAI/DuckLink/releases/).
 
 Make sure you have OBS downloaded with the following configuration:
 1. Have a screen capture source recording your whole main screen.
@@ -76,7 +76,6 @@ Recordings are stored in `Documents/DuckTrack_Recordings`. Each recording is a d
 2. `README.md` - stores the description for the recording
 3. MP4 file - the screen recording from OBS of the recording.
 
-Here is a [sample recording](example) for further reference.
 
 ## Technical Overview
 
